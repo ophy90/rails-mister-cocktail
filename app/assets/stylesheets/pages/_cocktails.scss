@@ -1,0 +1,39 @@
+// Place all the styles related to the cocktails controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+.container {
+background-color: #B29459;
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+column-gap:5px;
+padding: 5px;
+}
+
+h1 {
+  text-align: center;
+  color: #201813;
+  font-family: Parisienne;
+  font-size: 72px;
+}
+
+h2 {
+  font-family: Parisienne;
+}
+
+p {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: #201813;
+  
+
+  &:hover {
+    text-decoration: none;
+    color: #594a2d;
+  }
+}
+
+
