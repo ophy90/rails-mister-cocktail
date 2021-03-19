@@ -7,15 +7,6 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 
-
-Ingredient.create(name: "lemon")
-Ingredient.create(name: "ice")
-Ingredient.create(name: "mint leaves")
-
-Cocktail.create(name: "Caipirinha")
-Cocktail.create(name: "Mojito")
-Cocktail.create(name: "Cuba libre")
-
 # require 'open-uri'
 
 # # http://ruby-doc.org/stdlib-2.0.0/libdoc/open-uri/rdoc/OpenURI.html 
